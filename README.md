@@ -7,7 +7,7 @@
 ```
 ### 2. Setup `.env` file
 ```dotenv
-BETTER_AUTH_SECRET=cede37f541537498f29ecfbf309008dccdb4f59dcd6cdf88e61d9284c555422d
-NEXT_PUBLIC_AUTH_API_URL=https://homework-api.noevchanmakara.site/api/v1
+BETTER_AUTH_SECRET=YOUR_SECRET
+NEXT_PUBLIC_AUTH_API_URL=YOUR_API
 ```
 
